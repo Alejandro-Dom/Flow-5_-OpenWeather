@@ -97,7 +97,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "120",
+        "repeat": "300",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -130,7 +130,7 @@
         "max": "55",
         "colors": [
             "#729fcf",
-            "#fcaf3e",
+            "#96e38f",
             "#ca3838"
         ],
         "seg1": "14",
@@ -453,7 +453,7 @@
         "type": "debug",
         "z": "40c284f4e22a5a37",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -774,7 +774,7 @@
         "id": "4e2a9797aa584475",
         "type": "mqtt-broker",
         "name": "Hive MQTT G7",
-        "broker": "18.157.172.72",
+        "broker": "35.157.252.226",
         "port": "1883",
         "clientid": "",
         "autoConnect": true,
@@ -810,7 +810,7 @@
     {
         "id": "1cd07f3700d07103",
         "type": "ui_tab",
-        "name": "Flow 5",
+        "name": "Alejandro Domínguez Ramírez #CodigoIoT",
         "icon": "dashboard",
         "order": 4,
         "disabled": false,
